@@ -6,6 +6,7 @@ JavaScript
 This website uses openweathermap api to fetch the weather of a city, Website is built using HTML CSS and JavaScript
 This can also be used in mobile interface
 ## Deploy Link
+https://weather-app-bythanuja.netlify.app/
 
 ## Pictures
 ![image1](https://github.com/ThanujaDayananda/Weather-App/assets/76948739/d2bf7116-24e1-48c7-a4bd-d88496214a58)
